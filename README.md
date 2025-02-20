@@ -52,10 +52,12 @@ The method `generateNumbers(int count)` is responsible for generating random num
 ## Screenshots
 Add screenshots of the app in action to showcase its functionality. Example:
 
-![Initial Screen](path/to/screenshot1.png)
+![Initial Screen](https://github.com/user-attachments/assets/0b3df116-48dd-45d5-b9e6-ff52ebccd229)
+
 *Initial screen of the app.*
 
-![Generated Numbers](path/to/screenshot2.png)
+![Generated Numbers](https://github.com/user-attachments/assets/28ce8be6-0d26-4d54-b38d-954ebc3a5f50)
+
 *Numbers generated after clicking the "Generate 7 Numbers" button.*
 
 ---
