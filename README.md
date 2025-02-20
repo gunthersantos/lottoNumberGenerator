@@ -1,7 +1,3 @@
-Claro! Aqui está a versão em inglês do seu `README.md`, com emojis adicionados para torná-lo mais atrativo e fácil de entender.
-
----
-
 # Lottery Numbers Generator 🎲✨
 
 ## Description
@@ -77,13 +73,3 @@ Contributions are welcome! If you'd like to improve this project, follow these s
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details. 📜
 
----
-
-## Contact
-If you have any questions or suggestions, feel free to reach out:
-- Email: your-email@example.com 📧
-- GitHub: [@your-username](https://github.com/your-username) 👨‍💻
-
----
-
-Feel free to customize the placeholders (e.g., `your-username`, `your-email`) with your actual information. Adding emojis makes the `README.md` more engaging and visually appealing! 😊
