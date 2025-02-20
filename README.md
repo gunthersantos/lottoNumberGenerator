@@ -57,7 +57,8 @@ Add screenshots of the app in action to showcase its functionality. Example:
 
 *Initial screen of the app.*
 
-![Generated Numbers](https://github.com/user-attachments/assets/2159cf8b-2971-4f8d-b8ba-f45f7a7c8d98)
+![Generated Numbers](https://github.com/user-attachments/assets/dd8e9ecf-9198-4529-9183-24c4c7c62a4e)
+
 
 
 *Numbers generated after clicking the "Generate 7 Numbers" button.*
